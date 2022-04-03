@@ -17,3 +17,13 @@ data/intents.json
   - type: json file
   - function
     - simple intents data
+
+pickle
+  - type: folder
+  - function
+    - auto generates when training.ipynb runs
+
+model
+  - type: folder
+  - function
+    - auto generates when training.ipynb runs
